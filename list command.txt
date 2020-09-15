@@ -1,0 +1,9 @@
+git init
+git remote add origin https://github.com/mensalda/EvseevMA_hw.git
+git add .
+git commit -m "Hello world"
+git branch -M master
+git push -u origin master
+git add .
+git commit -m "change text"
+git push
